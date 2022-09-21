@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mp/AndroidStudioProjects/LeagueAppTest/app/src/main/res/drawable/custom_edit_text.xml" value="0.205" />
+        <entry key="..\:/Users/mp/AndroidStudioProjects/LeagueAppTest/app/src/main/res/drawable/icon_tab_search.xml" value="0.205" />
+        <entry key="..\:/Users/mp/AndroidStudioProjects/LeagueAppTest/app/src/main/res/layout/activity_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/mp/AndroidStudioProjects/LeagueAppTest/app/src/main/res/layout/fragment_detail.xml" value="0.176" />
+        <entry key="..\:/Users/mp/AndroidStudioProjects/LeagueAppTest/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/mp/AndroidStudioProjects/LeagueAppTest/app/src/main/res/layout/item_team.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/mp/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_dropdown_item_1line.xml" value="0.1897644927536232" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
